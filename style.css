@@ -6,8 +6,10 @@
 .buy{
 
     padding:10px 30px;
+    border: none;
     background-color: black;
     color:white;
+    
     border-radius: 10px;
     cursor:pointer;
 }
@@ -41,7 +43,7 @@ background-color: white;
 
     border:none;
     box-shadow:grey 10px 10px 20px;
-    border-radius: 20px;
+    border-radius: 0 25px;
     
 }
 .category{
